@@ -1,4 +1,4 @@
-# Telecom-Churn
+# Telecom Churn Prediction
 
 **Business Overview**
 
